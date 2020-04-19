@@ -1,2 +1,1 @@
-DELETE FROM flights 
-    WHERE destination = 'Tokyo'
+DELETE FROM countries WHERE destination = 'Tokyo';
